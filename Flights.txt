@@ -1,0 +1,9 @@
+128,Emirates Airline,Dubai,Istabul,220
+235,Delta Air Lines,Jordan,London,270
+324,rehufw,sfjhfk,sdfhiuw,111
+330,Malaysia Airlines,Kuala Lumpur,Rome,160
+460,Saudi Arabian Airlines,Jeddah,Moscow,320
+543,Thai Airways International,Bangkok,Frankfurt,180
+556,Turkish Airlines,Istanbul,Dublin,210
+778,Delta Air Lines,Atlanta,New York,180
+780,China Airlines,Taipei,Paris,87
